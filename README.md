@@ -1,4 +1,4 @@
- # VERIFICATION OF KIRCHHOFF’S LAWS
+  # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
 
@@ -25,7 +25,8 @@
 **CIRCUIT DIAGRAM:**
 
 
-<img width="622" height="831" alt="image" src="https://github.com/user-attachments/assets/61043d26-f3f5-4852-9522-0448f0009bc8" />
+<img width="371" height="515" alt="image" src="https://github.com/user-attachments/assets/6bd3570d-496b-480b-bd5d-f63e186ea59c" />
+
 
 
 
@@ -35,9 +36,7 @@
 
 
 
-<img width="552" height="822" alt="image" src="https://github.com/user-attachments/assets/6a1ffe6a-d84b-4b4c-8ce8-d896fe4469bc" />
-
-
+<img width="386" height="687" alt="image" src="https://github.com/user-attachments/assets/e0b9ac76-fae9-47ab-b122-dae0d701c8d8" />
 
 
 
@@ -62,7 +61,8 @@
 
 
 
-<img width="472" height="807" alt="image" src="https://github.com/user-attachments/assets/66f3738b-a11a-4768-bab2-20e3d9cc1917" />
+<img width="375" height="647" alt="image" src="https://github.com/user-attachments/assets/82126bd1-395d-40b1-9f8e-0cece92c574e" />
+
 
 
 
@@ -131,7 +131,8 @@
 
 
 
-<img width="452" height="316" alt="image" src="https://github.com/user-attachments/assets/9dd27dbc-f04f-4592-9530-ed7cbb98211b" />
+<img width="373" height="307" alt="image" src="https://github.com/user-attachments/assets/53c81055-158f-4dfe-b71e-59d288830869" />
+
 
 
 
